@@ -1,0 +1,37 @@
+body {
+    background-color: #D2B48C; /* SaddleBrown */
+    color: #FFF8DC; /* Cornsilk */
+    font-family: 'Comfortaa', cursive;
+    font-size: 1.2em;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+header, footer {
+    color: #8B4513; /* SaddleBrown */
+    background-color: #D2B48C; /* Tan */
+    width: 100%;
+    height: 50px;
+}
+
+header {
+    display: inline-flex;
+    font-family: 'Rambla', sans-serif;
+    font-size: 1.1em;
+}
+
+#container {
+    background-image: url(../images/phy11.jpg);
+    display: block;
+    height: 800px;
+}
+
+.otroIntento {
+    color: #8B4513; /* SaddleBrown */
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+}
